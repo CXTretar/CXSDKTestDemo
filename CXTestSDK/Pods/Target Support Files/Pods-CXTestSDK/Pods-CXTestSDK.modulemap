@@ -1,0 +1,6 @@
+framework module Pods_CXTestSDK {
+  umbrella header "Pods-CXTestSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
