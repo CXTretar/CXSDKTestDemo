@@ -8,11 +8,15 @@
   "tvOS" : [
 
   ],
-  "commitish" : "8dbd5f41fbfca54843e143df2b859d2d3f901dc8",
+  "commitish" : "f3551e51a5b683b8524ba58338c015521d47c66a",
   "iOS" : [
     {
       "name" : "CXTestSDK",
-      "hash" : "a8414a686b9ab7ff48f091e43fd5b5ce03c0caeed6c6ede04e1a74889b672d2b"
+      "hash" : "f95a532e297fda10e0ff9a63101f7d646a2c2c84a35353270b47a2e68f407a09"
+    },
+    {
+      "name" : "AFNetworking",
+      "hash" : "422120e0fa525020a8876422d930792bf8e3c0bf69460ea2095ab335eef044e0"
     }
   ]
 }

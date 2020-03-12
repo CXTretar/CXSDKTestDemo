@@ -6,6 +6,7 @@ target 'CXTestSDK' do
   use_frameworks!
 
   # Pods for CXTestSDK
+pod 'AFNetworking'
 pod 'SVProgressHUD'
 
 
