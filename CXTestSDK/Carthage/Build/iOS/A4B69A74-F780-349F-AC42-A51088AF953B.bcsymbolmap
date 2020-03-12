@@ -1,0 +1,7 @@
+BCSymbolMap Version: 2.0
+-[TestViewController viewDidLoad]
+Apple clang version 11.0.0 (clang-1100.0.33.16)
+/Users/cxtretar/Desktop/GitHub/CXSDKTestDemo/CXTestSDK/CXTestSDK/TestViewController.m
+/Users/cxtretar/Desktop/GitHub/CXSDKTestDemo/CXTestSDK
+CXTestSDK/TestViewController.m
+/Users/cxtretar/Library/Developer/Xcode/DerivedData/CXTestSDK-bbohvhygpwgalfhcczsbxxhtphzr/Build/Intermediates.noindex/ArchiveIntermediates/CXTestSDK/IntermediateBuildFilesPath/CXTestSDK.build/Release-iphoneos/CXTestSDK.build/DerivedSources/CXTestSDK_vers.c

@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "8dbd5f41fbfca54843e143df2b859d2d3f901dc8",
+  "iOS" : [
+    {
+      "name" : "CXTestSDK",
+      "hash" : "a8414a686b9ab7ff48f091e43fd5b5ce03c0caeed6c6ede04e1a74889b672d2b"
+    }
+  ]
+}
