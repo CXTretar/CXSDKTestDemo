@@ -7,6 +7,7 @@
 //
 
 #import "TestViewController.h"
+#import <SVProgressHUD.h>
 
 @interface TestViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
+    
+    [SVProgressHUD showSuccessWithStatus:@"123"];
 }
 
 /*
